@@ -4,12 +4,6 @@
   <img src="assets/banner.png" width="100%">
 </p>
 
-<!-- ===================== PROJECT LOGO ===================== -->
-
-<p align="center">
-  <img src="assets/logo.png" width="130">
-</p>
-
 <!-- ===================== PROJECT TITLE ===================== -->
 
 <h1 align="center">🛡️ Forensic Audio Classifier Tool</h1>
